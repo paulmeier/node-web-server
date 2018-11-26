@@ -77,3 +77,6 @@ typings/
 
 #My playground
 /playground
+
+#Server log
+server.log
